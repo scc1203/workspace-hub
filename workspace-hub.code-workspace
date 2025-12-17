@@ -1,1 +1,14 @@
-
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Anchor/anchor-life"
+		},
+		{
+			"path": "../test2"
+		}
+	],
+	"settings": {}
+}
